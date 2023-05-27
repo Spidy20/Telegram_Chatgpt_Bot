@@ -5,7 +5,7 @@
 
 ## [Watch the Tutorial for this Project](https://youtu.be/Fej2wb4YHes)
 
-![YouTube Thumbnail](https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/yt_thumb.jpg)
+![YouTube Thumbnail](https://github.com/Spidy20/Telegram_Chatgpt_Bot/blob/master/yt_thumb.jpg)
 
 ## Overview
 
@@ -58,7 +58,7 @@ For a more detailed explanation of this project, refer to the tutorial on the Ma
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/sc_1.jpg" width="270" height="500">
+<img src="https://github.com/Spidy20/Telegram_Chatgpt_Bot/blob/master/bot_sc.jpg" width="270" height="500">
 
 ## Support
 
